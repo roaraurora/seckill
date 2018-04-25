@@ -71,11 +71,12 @@
             <version>1.2.3</version>
         </dependency>
         <!--servlet web相关依赖-->
-        <dependency>
-            <groupId>taglibs</groupId>
-            <artifactId>standard</artifactId>
-            <version>1.1.2</version>
-        </dependency>
+        <!--standard查到与jstl冲突， 重复引用了-->
+        <!--<dependency>-->
+            <!--<groupId>taglibs</groupId>-->
+            <!--<artifactId>standard</artifactId>-->
+            <!--<version>1.1.2</version>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>jstl</groupId>
             <artifactId>jstl</artifactId>

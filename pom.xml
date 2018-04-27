@@ -73,9 +73,9 @@
         <!--servlet web相关依赖-->
         <!--standard查到与jstl冲突， 重复引用了-->
         <!--<dependency>-->
-            <!--<groupId>taglibs</groupId>-->
-            <!--<artifactId>standard</artifactId>-->
-            <!--<version>1.1.2</version>-->
+        <!--<groupId>taglibs</groupId>-->
+        <!--<artifactId>standard</artifactId>-->
+        <!--<version>1.1.2</version>-->
         <!--</dependency>-->
         <dependency>
             <groupId>jstl</groupId>
@@ -131,6 +131,23 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
             <version>4.1.7.RELEASE</version>
+        </dependency>
+        <!--redis客户端：Jedis-->
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.7.3</version>
+        </dependency>
+        <!--protostuff 序列化依赖-->
+        <dependency>
+            <groupId>com.dyuproject.protostuff</groupId>
+            <artifactId>protostuff-core</artifactId>
+            <version>1.0.8</version>
+        </dependency>
+        <dependency>
+            <groupId>com.dyuproject.protostuff</groupId>
+            <artifactId>protostuff-runtime</artifactId>
+            <version>1.0.8</version>
         </dependency>
     </dependencies>
 

@@ -41,7 +41,6 @@ var seckill = {
                             if(result && result['success']){
                                 var killResult = result['data'];
                                 //var state = killResult['state'];
-                                //todo
                                 var stateInfo = killResult['stateInfo'];
                                 //显示秒杀结果
                                 node.html('<span class="label label-success">' + stateInfo + '</span>');

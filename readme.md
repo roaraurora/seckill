@@ -18,7 +18,7 @@
     - restful接口设计样例 \
     ![image](https://github.com/roaraurora/pic/blob/master/restful接口设计样例.png)
     - seckill restful url设计
-    ![image](https://github.com/roaraurora/pic/blob/master/秒杀restful url.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/秒杀restful-url.png)
 - SpringMVC
     - ![image](https://github.com/roaraurora/pic/blob/master/SpringMVC.png)
 - 前端交互

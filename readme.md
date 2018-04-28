@@ -14,18 +14,18 @@
 ### web技术
 - Restful接口运用
     - restful设计规范 \
-    ![image](https://github.com/roaraurora/pic/restful设计规范.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/restful设计规范.png)
     - restful接口设计样例 \
-    ![image](https://github.com/roaraurora/pic/restful接口设计样例.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/restful接口设计样例.png)
     - seckill restful url设计
-    ![image](https://github.com/roaraurora/pic/秒杀restful url.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/秒杀restful url.png)
 - SpringMVC
-    - ![image](https://github.com/roaraurora/pic/SpringMVC.png)
+    - ![image](https://github.com/roaraurora/pic/blob/master/SpringMVC.png)
 - 前端交互
     - 前端页面逻辑流程 \
-    ![image](https://github.com/roaraurora/pic/前端页面逻辑流程.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/前端页面逻辑流程.png)
     - 秒杀页面逻辑 \
-    ![image](https://github.com/roaraurora/pic/秒杀页面逻辑.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/秒杀页面逻辑.png)
 - Bootstrap和JS
     - JS按模块写
 
@@ -33,4 +33,4 @@
 - 系统瓶颈点分析
 - 事务, 锁， 网络延迟理解
 - 常见架构 \
-    ![image](https://github.com/roaraurora/pic/常见架构.png)
+    ![image](https://github.com/roaraurora/pic/blob/master/常见架构.png)

@@ -21,7 +21,7 @@ public class RedisDaoTest {
     private SeckillDao seckillDao;
 
     @Test
-    public void testSeckill(){
+    public void testSeckill() {
         //get and put
         Seckill seckill = redisDao.getSeckill(id);
         if (seckill == null) {
